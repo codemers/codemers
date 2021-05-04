@@ -1,1 +1,1 @@
-# Hello 🥚 + 🙈 = 👨🏻‍💻
+# Hello [🥚 + 🙈](http://gotwo.cc/🥚+🙈) = 👨🏻‍💻
